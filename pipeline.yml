@@ -1,0 +1,2 @@
+- name: Trigger Buildkite Pipeline
+  uses: buildkite/trigger-pipeline-action@v1.2.0
